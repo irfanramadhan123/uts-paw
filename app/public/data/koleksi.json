@@ -92,7 +92,7 @@
   {
     "id": "10",
     "judul": "Website Presensi Mahasiswa",
-    "kategori": "Web",
+    "kategori": "Website",
     "teknologi": "React js, MySQL",
     "tahun": 2026,
     "tautan": "https://presensi-mahasiswa.vercel.app"
