@@ -1,10 +1,100 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Uangku",
+    "kategori": "Website",
+    "teknologi": "React,Vite",
+    "tahun": 2026,
+    "tautan": "https://uangku.eithez.my.id/"
+  }
+]
+[
+  {
+    "id": "2",
+    "judul": "Coffe Ridho",
+    "kategori": "Website",
+    "teknologi": "Tailwind CSS,MySQL",
+    "tahun": 2026,
+    "tautan": "https://kasirkafe.saibar.id/"
+  }
+]
+[
+  {
+    "id": "3",
+    "judul": "Design Website ulang tahun",
+    "kategori": "Desain",
+    "teknologi": "Figma",
+    "tahun": 2026,
+    "tautan": "https://www.figma.com/design/QI6D7sMVLaT56riTITMbWh/website-ulang-tahun?node-id=0-1&t=wTwsAwEjEXTG24IN-1"
+  }
+]
+[
+  {
+    "id": "4",
+    "judul": "pippiyy",
+    "kategori": "Website",
+    "teknologi": "React js",
+    "tahun": 2026,
+    "tautan": "https://pippiyy.vercel.app"
+  }
+]
+[
+  {
+    "id": "5",
+    "judul": "Pencatatan barang toko",
+    "kategori": "Website",
+    "teknologi": "React js",
+    "tahun": 2026,
+    "tautan": "https://pencatatan-barang-toko.vercel.app"
+  }
+]
+[
+  {
+    "id": "6",
+    "judul": "Aplikasi kelola akun roblok",
+    "kategori": "Aplikasi",
+    "teknologi": "kotlin, firebase",
+    "tahun": 2026,
+    "tautan": "https://example.com/roblok"
+  }
+]
+[
+  {
+    "id": "7",
+    "judul": "Poster Lomba Mobile Legend Infest 2026",
+    "kategori": "Desain",
+    "teknologi": "Canva",
+    "tahun": 2026,
+    "tautan": "https://canva.com/design/mobilelegend-infest"
+  }
+]
+[
+  {
+    "id": "8",
+    "judul": "Portofolio Irfan",
+    "kategori": "Website",
+    "teknologi": "React, Vite",
+    "tahun": 2026,
+    "tautan": "https://irfan-portofolio.vercel.app"
+  }
+]
+[
+  {
+    "id": "9",
+    "judul": "Design website portofolio irfan",
+    "kategori": "Desain",
+    "teknologi": "Figma",
+    "tahun": 2026,
+    "tautan": "https://figma.com/contohaja-portoirfan"
+  }
+]
+[
+  {
+    "id": "10",
+    "judul": "Website Presensi Mahasiswa",
+    "kategori": "Web",
+    "teknologi": "React js, MySQL",
+    "tahun": 2026,
+    "tautan": "https://presensi-mahasiswa.vercel.app"
   }
 ]
