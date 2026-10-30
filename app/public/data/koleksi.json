@@ -6,9 +6,7 @@
     "teknologi": "React,Vite",
     "tahun": 2026,
     "tautan": "https://uangku.eithez.my.id/"
-  }
-]
-[
+  },
   {
     "id": "2",
     "judul": "Coffe Ridho",
@@ -16,9 +14,7 @@
     "teknologi": "Tailwind CSS,MySQL",
     "tahun": 2026,
     "tautan": "https://kasirkafe.saibar.id/"
-  }
-]
-[
+  },
   {
     "id": "3",
     "judul": "Design Website ulang tahun",
@@ -26,9 +22,7 @@
     "teknologi": "Figma",
     "tahun": 2026,
     "tautan": "https://www.figma.com/design/QI6D7sMVLaT56riTITMbWh/website-ulang-tahun?node-id=0-1&t=wTwsAwEjEXTG24IN-1"
-  }
-]
-[
+  },
   {
     "id": "4",
     "judul": "pippiyy",
@@ -36,9 +30,7 @@
     "teknologi": "React js",
     "tahun": 2026,
     "tautan": "https://pippiyy.vercel.app"
-  }
-]
-[
+  },
   {
     "id": "5",
     "judul": "Pencatatan barang toko",
@@ -46,9 +38,7 @@
     "teknologi": "React js",
     "tahun": 2026,
     "tautan": "https://pencatatan-barang-toko.vercel.app"
-  }
-]
-[
+  },
   {
     "id": "6",
     "judul": "Aplikasi kelola akun roblok",
@@ -56,9 +46,7 @@
     "teknologi": "kotlin, firebase",
     "tahun": 2026,
     "tautan": "https://example.com/roblok"
-  }
-]
-[
+  },
   {
     "id": "7",
     "judul": "Poster Lomba Mobile Legend Infest 2026",
@@ -66,9 +54,7 @@
     "teknologi": "Canva",
     "tahun": 2026,
     "tautan": "https://canva.com/design/mobilelegend-infest"
-  }
-]
-[
+  },
   {
     "id": "8",
     "judul": "Portofolio Irfan",
@@ -76,9 +62,7 @@
     "teknologi": "React, Vite",
     "tahun": 2026,
     "tautan": "https://irfan-portofolio.vercel.app"
-  }
-]
-[
+  },
   {
     "id": "9",
     "judul": "Design website portofolio irfan",
@@ -86,9 +70,7 @@
     "teknologi": "Figma",
     "tahun": 2026,
     "tautan": "https://figma.com/contohaja-portoirfan"
-  }
-]
-[
+  },
   {
     "id": "10",
     "judul": "Website Presensi Mahasiswa",
