@@ -1,13 +1,13 @@
 import mahasiswa from '../../mahasiswa.json'
-
+import './Tentang.css'
 // Ganti dengan alamat repo fork kamu.
 const REPO = 'https://github.com/irfanramadhan123/uts-paw'
 
 export default function Tentang() {
   const { nama, nim, kelas, tema } = mahasiswa
   return (
-    <section>
-      <h1>Tentang</h1>
+    <section className="tentang">
+      <h1 className="judul-tentang">Tentang</h1>
       <dl>
         <dt>Nama</dt>
         <dd>{nama}</dd>

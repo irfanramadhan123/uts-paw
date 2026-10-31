@@ -1,11 +1,23 @@
 .tabel-gulir {
   overflow-x: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-width: 480px;
+  padding: 1.5rem;
+  margin : 0 auto;
+  background: #f9f9f9;    
+  border: 1px solid #e2e2e2;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .tabel-data {
   width: 100%;
   max-width: 480px;
   border-collapse: collapse;
+  margin: 0 auto;
+
 }
 
 .tabel-data th,
@@ -39,4 +51,7 @@
   .tabel-data td {
     padding: 0.4rem 0.5rem;
   }
+}
+.judul-statistik {
+  text-align: center;
 }

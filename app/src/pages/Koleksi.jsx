@@ -28,7 +28,7 @@ export default function Koleksi() {
         <FilterKategori daftar={daftarKategori} nilai={kategori} onUbah={setKategori} />
       </div>
       {tampil.length === 0 ? (
-        <PesanKosong pesan="Tidak ada portofolio yang cocok." />
+        <PesanKosong/>
       ) : (
         <div className="daftar-kartu">
           {tampil.map((item) => (
