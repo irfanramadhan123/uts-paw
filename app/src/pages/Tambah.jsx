@@ -1,3 +1,10 @@
+import { useNavigate } from 'react-router-dom'
+
 export default function Tambah() {
-  return <h1>Tambah</h1>
+  const navigate = useNavigate()
+  return (
+    <button type="button" onClick={() => navigate('/koleksi')}>
+      Kembali
+    </button>
+  )
 }
