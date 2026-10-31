@@ -98,8 +98,29 @@
     flex-direction: column;
     gap: 0.5rem;
   }
-
   .daftar-kartu {
     grid-template-columns: 1fr;
   }
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: #0c7ceb;
+}
+.kepala {
+  background: #fff;
+  border-bottom: 1px solid #dcdcdc;
+}
+.menu a,
+.menu a:visited {
+  color: #1f2328;
+}
+
+.menu a:hover {
+  color: #0080ff;
+}
+.menu a.active {
+  font-weight: 600;
+  color: #0080ff;
 }

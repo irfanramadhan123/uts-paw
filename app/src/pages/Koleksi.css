@@ -1,0 +1,13 @@
+.kartu h3 a,
+.kartu h3 a:visited {
+  color: #1746bd;
+  text-decoration: none;
+}
+
+.kartu h3 a:hover {
+  color: #0080ff;
+}
+
+.kartu p {
+  color: #000000;
+}
