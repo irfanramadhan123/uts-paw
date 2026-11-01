@@ -36,3 +36,6 @@ npm run dev
 
 ## Konsep React yang dipakai
 
+1.konsep react yang dipakai pada website kali ini yang pertama ada pada tampilan (pages) dan juga (component).
+2.data yang dikirim dari parent ke child,contohnya item pada kartuitem atau nilai atau daftar ke filterkategori.
+3.lalu contoh selanjutnya adalah react router, untuk memetakan alamat ke halaman dan dapat menggunakan '*' untuk halaman yang tidak diterima 404.
