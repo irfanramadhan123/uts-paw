@@ -1,4 +1,4 @@
-```markdown
+
 # Portofolio Irfan
 
 Nama: MUHAMMAD IRFAN RAMADHAN
@@ -16,7 +16,6 @@ Deployment: https://irfanramadhan123.github.io/uts-paw/
 
 ## Fitur
 
-- ...
 
 ## Menjalankan secara lokal
 
@@ -26,5 +25,3 @@ npm run dev
 
 ## Konsep React yang dipakai
 
-- ...
-```
