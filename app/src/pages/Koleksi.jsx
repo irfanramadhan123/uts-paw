@@ -23,7 +23,7 @@ export default function Koleksi() {
 
   return (
     <section>
-      <h1>Koleksi</h1>
+      <h1 c>Koleksi</h1>
       <div className="alat-koleksi">
         <KotakPencarian nilai={cari} onUbah={setCari} />
         <FilterKategori daftar={daftarKategori} nilai={kategori} onUbah={setKategori} />

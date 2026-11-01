@@ -4,11 +4,14 @@
   min-height: 100vh;
 }
 
+
 .kepala {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem 1.5rem;
+  padding: 1rem 1.5rem; 
+  background: #dee9f0;
+  border-bottom: 1px solid #dcdcdc;
 }
 
 .menu {
@@ -108,10 +111,7 @@ a {
 a:hover {
   color: #0c7ceb;
 }
-.kepala {
-  background: #fff;
-  border-bottom: 1px solid #dcdcdc;
-}
+
 .menu a,
 .menu a:visited {
   color: #1f2328;
@@ -123,4 +123,9 @@ a:hover {
 .menu a.active {
   font-weight: 600;
   color: #0080ff;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: #0080ff;
 }
+
+

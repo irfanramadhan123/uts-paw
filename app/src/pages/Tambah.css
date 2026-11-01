@@ -36,10 +36,14 @@
   padding: 0.6rem 1.5rem;
   border: 0;
   border-radius: 6px;
-  background: #0c26eb;
+  background: #1746bd;
   color: #fff;
   font: inherit;
   cursor: pointer;
+}
+
+.formulir button:hover {
+    background: #0080ff;
 }
 
 @media (max-width: 480px) {
@@ -63,13 +67,6 @@
     outline-offset: 2px;
 }
 
-
-.formulir button:hover {
-    background: #0c9fd4;
-}
-.formulir label::before {
-    content: ". ";
-}
 .judul-tambah {
   text-align: center;
 }

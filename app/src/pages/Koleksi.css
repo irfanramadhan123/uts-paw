@@ -1,13 +1,13 @@
-.kartu h3 a,
-.kartu h3 a:visited {
+.daftar-kartu h3 a {
   color: #1746bd;
   text-decoration: none;
 }
 
-.kartu h3 a:hover {
+.daftar-kartu h3 a:hover {
   color: #0080ff;
 }
 
-.kartu p {
+.daftar-kartu p {
   color: #000000;
 }
+
