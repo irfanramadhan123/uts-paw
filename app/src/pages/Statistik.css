@@ -1,5 +1,4 @@
 .tabel-gulir {
-  overflow-x: auto;
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
